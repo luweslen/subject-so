@@ -1,4 +1,4 @@
-# **Sistemas Operacionais**
+# **SISTEMAS OPERACIONAIS**
 
 <a href="https://github.com/devweslen/subject-so/blob/main/EN-US.md">
  <img

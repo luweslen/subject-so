@@ -1,4 +1,4 @@
-# **CLIENT WEB DEVELOPMENT**
+# **OPERATIONAL SYSTEM**
 
 <a href="https://github.com/devweslen/subject-so/blob/main/README.md">
  <img
